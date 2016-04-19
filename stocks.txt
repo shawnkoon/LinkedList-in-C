@@ -1,0 +1,21 @@
+5
+MSFT
+54.21
+Microsoft Corporation
+Redmond
+HI
+28.43
+Hillenbrand Inc
+Batesville
+GOOG
+735.30
+Alphabet Inc
+Mountain view
+HI
+24.12
+Hillenbrand Inc
+Batesville
+SMI
+4.40
+SensoMotoric Instruments
+Teltow Germany
